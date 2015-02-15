@@ -8,7 +8,7 @@ Make a fork of the repository to your own account in GitHub (I can't demonstrate
 
 On your computer, in a Git shell, cloan YOUR repository
 
-Edit the Roster.md file to add your name
+Edit the roster.md file to add your name
 
 Add and commit the file in Git
 
