@@ -6,3 +6,5 @@ These are the participants in CS 480:
 Howard FRancis
 
 Edward jeffries
+
+Megan Hatfield
